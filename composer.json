@@ -1,0 +1,11 @@
+{
+    "name": "flodesign/id-filter",
+    "description": "A filter to allow or deny access based on the query string",
+    "authors": [
+        {
+            "name": "Craig Thompson",
+            "email": "craig@flodesign.co.uk"
+        }
+    ],
+    "require": {}
+}
